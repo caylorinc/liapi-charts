@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  liapi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-20T22:54:35.352281451Z"
+    description: A Helm chart for liapi
+    digest: 493868cb74679b9d732ad1ec1f487f5abac2ccd3e46f5d1b724592ed9fcd96c1
+    name: liapi
+    type: application
+    urls:
+    - https://github.com/caylorinc/liapi-charts/releases/download/liapi-0.1.2/liapi-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-09-20T22:54:35.352292151Z"
